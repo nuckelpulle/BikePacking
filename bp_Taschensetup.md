@@ -70,6 +70,8 @@ Die Beiden Gabelsäcke sind für unterschiedliche Gelegenheiten gepackt.
 * Handschuhe
 * Mütze
 
+Morgens ist der Kältesack oft noch leer, da man die Sachen lieber anhat. Aber es ist gut eine gut erreichbare Verstaugelegenheit zu haben. Wenn man sich warm gefahren hat kann man die Sachen schnell verstauen.
+
 Wenn abzusehen ist das es eher schlechtes Wetter ist kann der Seesack auch in dem Seatpack verstaut werden und stattdessen die Regenjacke in den Sack gepackt werden.
 
 ## Lenkertasche
