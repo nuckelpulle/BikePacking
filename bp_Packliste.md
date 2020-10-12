@@ -7,6 +7,7 @@
 * Isomatte
 * Schlafsack
 * Inlay Schalfsack
+* Kissen
 
 ## Kleidung OnBike
 * Kurzarm (Merino-)Shirt
@@ -14,7 +15,11 @@
 * 2* Unterhose
 * 2* Polster Hose
 * 2* Socken
+* Kurze Hose
+* Lange Hose
 * Schuhe
+* Helm
+* Sonnenbrille
 * Wind-/Regen-Jacke
 * Radhandschuhe 2*
 
@@ -28,6 +33,7 @@
 * Halstuch/Schlauch
 * (Barfuss)Schuhe/Schlappen
 * Cap
+* Badehose
 
 ## Papiere
 * Kreditkarte
@@ -47,6 +53,8 @@
 * Schaltauge
 * Schaltzug
 * Bremsbeläge
+* GummiZüge
+* ParaCord
 
 ## Elektronik
 * Vorderlicht/Kopflampe
@@ -72,7 +80,10 @@
   * See
 * 1-Hilfe Set
 * Sonnencreme
+* Lippenpflegestift
 * Deo
+* Zeckenzange
+* Ohrnstäbchen
 * Desinfektionsmittel
 
 ## Küche
@@ -80,5 +91,11 @@
 * Thermoskanne
 * 2* Trinkflaschen
 * Brausetabletten
+* Powerbar
 * Besteck
 * Feuerzeug
+* Beutel (Einkauf)
+
+## Optional
+* Papier/Kuli
+* Buch
