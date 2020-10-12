@@ -1,5 +1,5 @@
 # Meine Packliste:
-
+Für den Herbst.
 
 ## Schlafen
 * Zelt
@@ -10,7 +10,7 @@
 * Kissen
 
 ## Kleidung OnBike
-* Kurzarm (Merino-)Shirt
+* Kurzarm Outdoor-Hemd
 * Langarm (Merino-)Shirt
 * 2* Unterhose
 * 2* Polster Hose
@@ -22,18 +22,21 @@
 * Sonnenbrille
 * Wind-/Regen-Jacke
 * Radhandschuhe 2*
+* Handschuhe
+* Mütze
 
 ## Kleidung OffBike
 * Outdoor-Hose (Zipoff)
 * Kurzarm Shirt
 * Langarm Shirt
 * 2* Unterhose
-* 2* Socken
+* 2* Socken (1* Wolle)
 * Thermojacke/Pulli
 * Halstuch/Schlauch
 * (Barfuss)Schuhe/Schlappen
 * Cap
 * Badehose
+* Schlafanzug
 
 ## Papiere
 * Kreditkarte
@@ -48,7 +51,6 @@
 * Kettenschloß
 * Kabelbinder
 * Kettenöl
-* Schloß
 * Bremszug
 * Schaltauge
 * Schaltzug
@@ -75,6 +77,7 @@
   * Allergie
   * Kopfschmerz
 * Klopapier
+  * Hundetüten
 * Handtuch
   * Frischwasser
   * See
@@ -97,5 +100,8 @@
 * Beutel (Einkauf)
 
 ## Optional
+* Schloß
 * Papier/Kuli
 * Buch
+* Plastiktüten
+* Organisationsbeutel
